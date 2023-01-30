@@ -27,8 +27,8 @@ const byte cs_pins[] = { 26, 32 };
 unsigned long previousMillis = 0;  // will store last time LED was updated
 const long interval = 100;
 
-char ssid[] = "OliveNet New";     // your network SSID (name)
-char pass[] = "chummyteapot589";  // your network password
+char ssid[] = "your network name";
+char pass[] = "your network password";
 
 IPAddress local_IP(10, 0, 0, 100);
 IPAddress gateway(10, 0, 0, 1);
