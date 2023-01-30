@@ -1,0 +1,32 @@
+### Module positions - created on Monday, 30 January 2023 at 03:13:24 pm ###
+### Printed by Pcbnew version (6.0.10-0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                           PosX       PosY       Rot  Side
+C1        100n               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    17.1450   -22.9100  180.0000  top
+C2        100n               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    17.1450   -43.2500  180.0000  top
+C3        10uF               CAP_EEEFN1E100R                                26.8550   -86.9950    0.0000  top
+C4        10uF               CAP_EEEFN1E100R                                17.1450   -17.8500    0.0000  top
+C5        100n               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    17.1450   -59.6900  180.0000  top
+C6        330n               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    24.7650   -92.0850    0.0000  top
+C7        100n               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    10.0650   -92.0750  180.0000  top
+C8        10uF               CAP_EEEFN1E100R                                 7.9750   -86.9950  180.0000  top
+C9        10uF               CAP_EEEFN1E100R                                17.1450   -39.4400    0.0000  top
+C10       100n               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    16.8837   -72.2800  180.0000  top
+J1        Conn_01x08_Female  PinSocket_1x08_P2.54mm_Vertical                 8.2700    -1.8800   90.0000  top
+J2        Conn_01x08_Female  PinSocket_1x08_P2.54mm_Vertical                 8.2700  -104.1150   90.0000  top
+R3        100k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    29.2000   -66.0400   90.0000  top
+R4        100k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     5.7150   -64.7700   90.0000  top
+R5        100k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    24.1200   -66.0400   90.0000  top
+R6        100k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    10.5250   -64.7700  -90.0000  top
+R7        100k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    29.2000   -79.1509   90.0000  top
+R8        100k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     5.7150   -77.4700   90.0000  top
+R9        100k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    24.1200   -79.0009   90.0000  top
+R10       100k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    10.5250   -77.4700  -90.0000  top
+R18       2.5k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    10.7950    -7.0450  180.0000  top
+U2        MCP4922            SOIC127P600X175-14N                            17.1450   -30.4800    0.0000  top
+U3        MCP4822            SOIC127P600X175-14N                            17.1450   -50.8700    0.0000  top
+U6        NCS20072D          SOIC-8_3.9x4.9mm_P1.27mm                       17.1450   -66.0400    0.0000  top
+U7        NCS20072D          SOIC-8_3.9x4.9mm_P1.27mm                       17.1450   -78.7400    0.0000  top
+U13       LM336M-2.5/NOPB    SOIC127P599X175-8N                             17.1450    -8.9600    0.0000  top
+## End

@@ -1,0 +1,14 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J1,J2";"PinSocket_1x08_P2.54mm_Vertical";2;"Conn_01x08_Female";;;
+2;"R6,R7,R4,R5,R9,R8,R10,R3";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";8;"100k";;;
+3;"R18";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"2.5k";;;
+4;"C3,C8,C9,C4";"CAP_EEEFN1E100R";4;"10uF";;;
+5;"U2";"SOIC127P600X175-14N";1;"MCP4922";;;
+6;"U6,U7";"SOIC-8_3.9x4.9mm_P1.27mm";2;"NCS20072D";;;
+7;"C2,C5,C10,C7,C1";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";5;"100n";;;
+8;"U3";"SOIC127P600X175-14N";1;"MCP4822";;;
+9;"U13";"SOIC127P599X175-8N";1;"LM336M-2.5/NOPB";;;
+10;"C6";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"330n";;;
+11;"U1";"MODULE_ESP32-DEVKITC";1;"ESP32-DEVKITC";;;
+12;"CON1";"EURO_POWER_HEADER";1;"EuroPow";;;
+13;"U5";"TO-220-3_Vertical";1;"LM7805_TO220";;;

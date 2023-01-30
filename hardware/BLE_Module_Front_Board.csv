@@ -1,0 +1,8 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"P6,P3,P5,P1,P2,P4";"THONKICONN";6;"EuroCon";;;
+2;"C1,C2";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";2;"C";;;
+3;"R3,R1,R2,R4";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";4;"1k";;;
+4;"J2,J1";"PinSocket_1x08_P2.54mm_Vertical";2;"Conn_01x08_Male";;;
+5;"D1,D2";"LED_D3.0mm";2;"LED";;;
+6;"U2,U1";"SOT-23-5";2;"74AHCT1G125";;;
+7;"R5,R6,R7,R8";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";4;"1K";;;

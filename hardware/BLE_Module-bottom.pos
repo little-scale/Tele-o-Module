@@ -1,0 +1,9 @@
+### Module positions - created on Monday, 30 January 2023 at 03:13:24 pm ###
+### Printed by Pcbnew version (6.0.10-0)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val            Package                    PosX       PosY       Rot  Side
+CON1      EuroPow        EURO_POWER_HEADER      -17.1450   -98.4250  180.0000  bottom
+U1        ESP32-DEVKITC  MODULE_ESP32-DEVKITC   -17.1450   -29.8450    0.0000  bottom
+U5        LM7805_TO220   TO-220-3_Vertical      -19.9550   -87.7600  180.0000  bottom
+## End

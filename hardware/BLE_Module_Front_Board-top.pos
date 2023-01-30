@@ -1,0 +1,28 @@
+### Module positions - created on Monday, 16 January 2023 at 07:12:55 pm ###
+### Printed by Pcbnew version (6.0.10-0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                                           PosX       PosY       Rot  Side
+C1        C                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    19.0500   -13.3350  180.0000  top
+C2        C                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    19.0875   -29.8450  180.0000  top
+D1        LED              LED_D3.0mm                                     31.7550   -10.7950  180.0000  top
+D2        LED              LED_D3.0mm                                     31.7550    -3.8100  180.0000  top
+J1        Conn_01x08_Male  PinSocket_1x08_P2.54mm_Vertical                 8.2700    -1.8800   90.0000  top
+J2        Conn_01x08_Male  PinSocket_1x08_P2.54mm_Vertical                 8.2700  -104.1150   90.0000  top
+P1        EuroCon          THONKICONN                                     28.5750   -21.3200    0.0000  top
+P2        EuroCon          THONKICONN                                     28.5750   -35.9250    0.0000  top
+P3        EuroCon          THONKICONN                                     28.5750   -50.5300    0.0000  top
+P4        EuroCon          THONKICONN                                     28.5750   -65.1350    0.0000  top
+P5        EuroCon          THONKICONN                                     28.5750   -79.7400    0.0000  top
+P6        EuroCon          THONKICONN                                     28.5750   -94.3450    0.0000  top
+R1        1k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    19.0500   -24.7650    0.0000  top
+R2        1k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    19.3200   -41.2750    0.0000  top
+R3        1k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    25.4000   -11.4300    0.0000  top
+R4        1k               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    25.4000    -6.3300    0.0000  top
+R5        1K               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    19.4150   -46.3450  180.0000  top
+R6        1K               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    19.4150   -60.9600  180.0000  top
+R7        1K               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    19.4150   -75.5650  180.0000  top
+R8        1K               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    19.4150   -90.1800  180.0000  top
+U1        74AHCT1G125      SOT-23-5                                       19.0500   -19.0500    0.0000  top
+U2        74AHCT1G125      SOT-23-5                                       19.3550   -35.5600    0.0000  top
+## End
